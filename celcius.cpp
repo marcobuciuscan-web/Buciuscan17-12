@@ -17,3 +17,4 @@ float conversione (int gradi_c)
 {
 	return 32+(9/5)*gradi_c;
 }
+
